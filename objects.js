@@ -1,6 +1,6 @@
 var playlist = {
   Beatles: "Yesterday",
-  Michael Jackson: "billy jean"
+  Michael_Jackson: "billy jean"
 }
 
 function updatePlaylist(playlist, name, song){
