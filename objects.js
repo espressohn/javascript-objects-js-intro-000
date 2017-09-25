@@ -1,0 +1,14 @@
+var playlist = {
+  Beatles: "Yesterday",
+  Michael Jackson: "billy jean"
+}
+
+function updatePlaylist(playlist, name, song){
+  palylist.name=song
+  return playlist
+}
+
+function removeFromPlaylist(playlist, name){
+  delete playlist.name
+  return playlist
+}
